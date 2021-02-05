@@ -1,0 +1,35 @@
+{
+  "name": "react-native-simple-audio-player",
+  "version": "1.0.0",
+  "description": "simple audio player package for react native with all required controls",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshilJs/react-native-simple-audio-player.git"
+  },
+  "keywords": [
+    "react-native-audio-player",
+    "react-native",
+    "audio-playback",
+    "audio-seekbar",
+    "audio-player",
+    "audio",
+    "stream",
+    "play",
+    "audio",
+    "audio-controls",
+    "audio-play-pause-repeat"
+  ],
+  "author": "Harshil Jasoliya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harshilJs/react-native-simple-audio-player/issues"
+  },
+  "homepage": "https://github.com/harshilJs/react-native-simple-audio-player#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.65.0"
+  }
+}
