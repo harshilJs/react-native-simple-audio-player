@@ -1,6 +1,6 @@
 {
   "name": "react-native-simple-audio-player",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple audio player package for react native with all required controls",
   "main": "index.js",
   "scripts": {
