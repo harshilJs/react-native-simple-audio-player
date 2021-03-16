@@ -13,7 +13,7 @@
     "@react-native-community/slider": "^3.0.3",
     "react": "16.13.1",
     "react-native": "0.63.4",
-    "react-native-simple-audio-player": "file:../react-native-simple-audio-player-1.0.0.tgz",
+    "react-native-simple-audio-player": "file:../react-native-simple-audio-player-1.0.1.tgz",
     "react-native-video": "^5.1.1"
   },
   "devDependencies": {

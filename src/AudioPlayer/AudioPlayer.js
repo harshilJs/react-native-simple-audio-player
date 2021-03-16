@@ -12,7 +12,7 @@ UIManager.setLayoutAnimationEnabledExperimental &&
 const volumeControlTime = 3000;
  
 export const AudioPlayer = (props) => {
-  const { url, style } = props;
+  const { url, style, repeatOnComponent, repeatOffComponent } = props;
   const [paused, setPaused] = useState(true);
 
   const videoRef = useRef(null);
