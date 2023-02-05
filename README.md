@@ -29,6 +29,10 @@ import {AudioPlayer} from 'react-native-simple-audio-player';
 
 This package is still under construction and beta mode, You can still use this by passing your Audio URL to AudioPlayer component. Feel free to drop suggestions and improvements
 
+![1](https://user-images.githubusercontent.com/49385977/216811327-7b8076e5-bc4b-4de6-a9f5-cda7d3862a93.png)
+
+![2](https://user-images.githubusercontent.com/49385977/216811336-9bdeb2e7-9e89-4c76-90a2-030e30452bd1.png)
+
 <img src="./example/ss/example1.png" width="220">  <img src="./example/ss/example2.png" width="220">  <img src="./example/ss/example.3.png" width="220">
 
 ```javascript
