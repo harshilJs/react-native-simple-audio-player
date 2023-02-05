@@ -187,10 +187,10 @@ PODS:
   - React-jsinspector (0.63.4)
   - react-native-slider (3.0.3):
     - React
-  - react-native-video (5.1.1):
+  - react-native-video (5.2.1):
     - React-Core
-    - react-native-video/Video (= 5.1.1)
-  - react-native-video/Video (5.1.1):
+    - react-native-video/Video (= 5.2.1)
+  - react-native-video/Video (5.2.1):
     - React-Core
   - React-RCTActionSheet (0.63.4):
     - React-Core/RCTActionSheetHeaders (= 0.63.4)
@@ -365,8 +365,8 @@ SPEC CHECKSUMS:
   React-jsi: a0418934cf48f25b485631deb27c64dc40fb4c31
   React-jsiexecutor: 93bd528844ad21dc07aab1c67cb10abae6df6949
   React-jsinspector: 58aef7155bc9a9683f5b60b35eccea8722a4f53a
-  react-native-slider: b733e17fdd31186707146debf1f04b5d94aa1a93
-  react-native-video: 1574074179ecaf6a9dd067116c8f31bf9fec15c8
+  react-native-slider: e99fc201cefe81270fc9d81714a7a0f5e566b168
+  react-native-video: c26780b224543c62d5e1b2a7244a5cd1b50e8253
   React-RCTActionSheet: 89a0ca9f4a06c1f93c26067af074ccdce0f40336
   React-RCTAnimation: 1bde3ecc0c104c55df246eda516e0deb03c4e49b
   React-RCTBlob: a97d378b527740cc667e03ebfa183a75231ab0f0
@@ -381,4 +381,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 28de767ada234b0d6688cfe706f652f06b1c4490
 
-COCOAPODS: 1.10.1
+COCOAPODS: 1.11.3
